@@ -1,1 +1,70 @@
-/* Write your CSS here! */
+/* Element Selectors */
+
+body {
+  background-color: rgb(97, 125, 121);
+  display: block;
+  margin: 8px;
+}
+
+h2 {
+  color: rgb(0, 68, 50);
+}
+
+h3 {
+  font-size: 30px;
+}
+
+img {
+  width: 80%;
+  height: auto;
+  padding: 35px;
+}
+
+ol {
+  font-size: 20px;
+  padding-left: 5%;
+}
+
+footer {
+  text-align: center;
+}
+
+/* Class Selectors*/
+.facts-paragraphs {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.funParagraph {
+  color: green;
+  font-size: 15px;
+}
+.retronowImgs {
+  width: 40%;
+  height: auto;
+}
+
+/* ID Selectors*/
+
+#mainHeading {
+  font-size: 60px;
+  color: red;
+}
+
+#signature {
+  color: rgb(89, 44, 96);
+  font-weight: 300;
+  padding-left: 10%;
+  margin-top: -3%;
+  font-size: 30px;
+  font-style: italic;
+}
+
+#testP {
+  font-size: 50px;
+  text-align: center;
+}
+
+#paleonerd {
+  color: gold;
+  font-style: italic;
+}
